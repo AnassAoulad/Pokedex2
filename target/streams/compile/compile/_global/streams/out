@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /Users/nas/Documents/Pokedex/src/main/scala/com/pokemon/Pokedex.scala:36:34 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m36 |[0m      Console.println(asyncRequest())[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                      ^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mmissing argument for parameter text of [33mmethod[0m [35masyncRequest[0m in [33mobject[0m [35mPokedex[0m: (text: String): concurrent.Future[String][0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
